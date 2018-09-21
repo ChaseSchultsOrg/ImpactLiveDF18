@@ -1,8 +1,12 @@
 {
-    "require": {
-
-    }
-    "require-dev": {
-      "heroku/heroku-buildpack-php": "*"
-  }
+    "name": "sf/impact-live-df18",
+    "description": "Impact Live 2018",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Valerie Myers",
+            "email": "vmyers@salesforce.com"
+        }
+    ],
+    "require": {}
 }
